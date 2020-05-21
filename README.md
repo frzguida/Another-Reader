@@ -1,4 +1,6 @@
 Another-Reader
 ==============
 
-a feed reader alternative
+A self hosted Tiny Tiny RSS instance
+http://anotherreader.bitnamiapp.com
+
